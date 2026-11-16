@@ -1,0 +1,12 @@
+@"
+*.iml
+.gradle/
+build/
+.kotlin/
+local.properties
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+.DS_Store
+"@ | Set-Content .gitignore
